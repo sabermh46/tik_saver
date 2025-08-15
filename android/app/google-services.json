@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811037736619",
+    "project_id": "tiksaver-95178",
+    "storage_bucket": "tiksaver-95178.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811037736619:android:7283ed3a09b885919c01ee",
+        "android_client_info": {
+          "package_name": "com.example.tik_saver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuV5gc-v99CYTZWhBFfT-hDf5mJYrTjYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
