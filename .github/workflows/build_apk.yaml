@@ -16,7 +16,7 @@ jobs:
 
       - uses: subosito/flutter-action@v2  # Step 2: Set up Flutter environment
         with:
-          flutter-version: '3.19.0' # Use your Flutter version
+          flutter-version: '3.22.2' # Use your Flutter version
           channel: 'stable'
 
       - run: flutter pub get  # Step 3: Get Flutter dependencies
